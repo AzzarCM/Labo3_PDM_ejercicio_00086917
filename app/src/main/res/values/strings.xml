@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="text_name">Nombre</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="nombre">Nombre</string>
+    <string name="lastName">Apellido</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Edad</string>
+    <string name="age_et">Age</string>
+    <string name="genre">Genero</string>
+    <string name="what_s_your_genre">What\'s your genre?</string>
+    <string name="what_s_your_age">What\'s your age</string>
+    <string name="share">Share</string>
+    <string name="just_shared">COMPARTISTE TUS DATOS</string>
+</resources>
